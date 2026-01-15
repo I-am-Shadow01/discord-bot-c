@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "apis": {
+        "gemini": {
+            "api_key": "",
+            "model": "gemini-2.5-flash"
+        }
+    },
+    "chat": {
+        "character_prompt": ""
+    }
+}

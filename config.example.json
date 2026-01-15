@@ -1,0 +1,12 @@
+{
+    "token": "PASTE_YOUR_DISCORD_BOT_TOKEN_HERE",
+    "apis": {
+        "gemini": {
+            "api_key": "PASTE_YOUR_GEMINI_API_KEY_HERE",
+            "model": "gemini-2.5-flash"
+        }
+    },
+    "chat": {
+        "character_prompt": "You are a helpful and funny assistant."
+    }
+}
